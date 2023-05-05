@@ -1,0 +1,15 @@
+{
+  "short_name": "MrNyan's Universe",
+  "name": "Welcome to MrNyan's Universe!",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "815x815"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
