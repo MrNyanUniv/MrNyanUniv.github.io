@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c5edbab.css",
-    "main.js": "/static/js/main.ee3216fd.js",
+    "main.js": "/static/js/main.a8b20ec7.js",
     "static/media/selfPort.png": "/static/media/selfPort.bad1abd69b65a87bf698.png",
     "static/media/BG0.gif": "/static/media/BG0.a9714fbf25aa5bc16a85.gif",
     "static/media/nyanbanner.png": "/static/media/nyanbanner.0124c338fb3d5063a8c3.png",
@@ -10,10 +10,10 @@
     "static/media/prev.png": "/static/media/prev.47ef2e149213db330b2a.png",
     "index.html": "/index.html",
     "main.0c5edbab.css.map": "/static/css/main.0c5edbab.css.map",
-    "main.ee3216fd.js.map": "/static/js/main.ee3216fd.js.map"
+    "main.a8b20ec7.js.map": "/static/js/main.a8b20ec7.js.map"
   },
   "entrypoints": [
     "static/css/main.0c5edbab.css",
-    "static/js/main.ee3216fd.js"
+    "static/js/main.a8b20ec7.js"
   ]
 }
