@@ -1,0 +1,4 @@
+Sitemap: https://mrnyan.art/sitemap.txt
+
+User-agent: *
+Disallow: /static/media/
