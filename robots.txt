@@ -1,4 +1,4 @@
-Sitemap: https://mrnyan.art/sitemap.txt
+Sitemap: https://mrnyan.art/sitemap.xml
 
 User-agent: *
 Disallow: /static/media/
